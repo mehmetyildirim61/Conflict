@@ -11,3 +11,5 @@ mehmet branch'i 2.deneme
 yeniden merhaba, ben memoli-ilk deneme
 
 Conflict olusturmak istiyorum-Master
+Github Conflict Deneme
+
